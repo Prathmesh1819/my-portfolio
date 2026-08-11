@@ -1,175 +1,73 @@
-# 👨‍💻 Prathmesh's Portfolio Website
+# ⚡ Prathmesh Dharashivkar — Developer Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, and contact information as a Computer Science student and aspiring Full Stack Web Developer. The website serves as a central hub where visitors can explore my work, learn about my technical expertise, and get in touch for collaborations or opportunities.
+Welcome to my developer portfolio website! Built with a Vercel/Linear/Stripe inspired dark aesthetic, clean typography, interactive micro-animations, and fast performance.
 
-## 🌐 Live Demo
+## 🌐 Live Website
 
-**Website:** https://my-portfolio-nu-tan-01x8mhlskp.vercel.app/
-
----
-
-## 📸 Preview
-
-<img width="1408" height="767" alt="Screenshot 2026-07-25 at 23 04 02" src="https://github.com/user-attachments/assets/84c7997a-17f9-4515-8b57-8913f43c431d" />
-
-<img width="1408" height="768" alt="Screenshot 2026-07-25 at 23 04 25" src="https://github.com/user-attachments/assets/dda748f0-286c-4663-8cc4-ceda1b375de8" />
-
-
-
-Example:
-
-```
-assets/homepage.png
-assets/projects.png
-assets/skills.png
-assets/contact.png
-```
+**Live Portfolio URL:** [https://my-portfolio-nu-tan-01x8mhlskp.vercel.app/](https://my-portfolio-nu-tan-01x8mhlskp.vercel.app/)
 
 ---
 
-## ✨ Features
+## ✨ Key Features & Enhancements
 
-- 👋 Professional landing page
-- 👨‍💻 About Me section
-- 💼 Featured Projects showcase
-- 🛠️ Technical Skills section
-- 📄 Resume download option
-- 📞 Contact section
-- 📱 Fully responsive design
-- ⚡ Fast loading and optimized performance
-- 🎨 Clean and modern UI
+- 🎨 **Startup Aesthetic**: Dark mode default (`#09090b`), radial glows, subtle glassmorphism (`backdrop-filter: blur(16px)`).
+- 🖱️ **Interactive Micro-Interactions**: Magnetic glowing cursor follower, dynamic spotlight background, top scroll progress bar, active section navigation observer.
+- ⚡ **Categorized Skills**: Interactive filter tabs (Frontend, Backend, Database, Programming, Tools) with animated hover glow badges.
+- 💼 **Startup Projects Showcase**:
+  1. **Shiftlens Media** (`⭐ Freelance Client Work`) — Live Demo & GitHub
+  2. **Team 18** (`⚡ Startup Agency`) — Live Demo & GitHub
+  3. **Smart Garbage Monitoring System** (`🌿 Civic Tech / IoT`) — Live Demo & GitHub
+  4. **Sarhad International Publisher** (`🎓 Academic Platform`) — Live Demo & GitHub
+  5. **ScanGoEase Parking System** (`🚗 Smart Mobility`) — Live Demo & GitHub
+  6. **Weather Forecasting App** (`🌤️ Real-Time API`) — Live Demo & GitHub
+- 📊 **Development Milestones & GitHub Matrix**: Animated statistics counters and 52-week interactive GitHub contribution heat map.
+- 📄 **Resume Download & Contact**: Direct Google Drive resume link, social channels, and interactive contact form.
+- ⚡ **SEO & Performance**: Open Graph metadata, JSON-LD structured schema, and 100/100 Lighthouse target score.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Vercel (Deployment)
+- **Frontend**: HTML5, CSS3 (Vanilla CSS Custom Properties), JavaScript (ES6+)
+- **Typography**: Google Fonts (`Inter`, `Plus Jakarta Sans`, `JetBrains Mono`)
+- **Deployment**: Vercel
 
 ---
 
 ## 📂 Project Structure
 
 ```
-my-portfolio/
-│
-├── index.html
-└── README.md
+Portfolio/
+├── index.html          # Main application file (Semantic HTML5, CSS3, JS)
+├── README.md           # Repository documentation
+└── images/             # Project preview screenshots
+    ├── shiftlens.jpg
+    ├── team18.jpg
+    ├── garbage.jpg
+    └── sarhad.jpg
 ```
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Local Development
 
-### Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Prathmesh1819/my-portfolio.git
+   cd my-portfolio
+   ```
 
-```bash
-git clone https://github.com/Prathmesh1819/my-portfolio.git
-```
-
-### Navigate to the project
-
-```bash
-cd my-portfolio
-```
-
-### Run the project
-
-Open `index.html` in your preferred web browser or use **VS Code Live Server**.
-
----
-
-## 💼 Featured Sections
-
-- 🏠 Home
-- 👨‍💻 About Me
-- 🛠️ Skills
-- 💼 Projects
-- 📜 Resume
-- 📞 Contact
-
----
-
-## 🎯 Highlights
-
-- Professional and modern design
-- Mobile-first responsive layout
-- Easy navigation
-- Optimized for performance
-- Recruiter-friendly project showcase
-- Clean code structure
-
----
-
-## 💡 Future Enhancements
-
-- 🌙 Dark/Light Mode
-- 🌍 Multi-language Support
-- 📝 Blog Section
-- 📊 Visitor Analytics
-- 📬 Functional Contact Form
-- 🎞️ Project Demo Videos
-- 📄 Dynamic Resume Download
-- ✨ Advanced Animations
-
----
-
-## 📱 Responsive Design
-
-Optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
+2. Open `index.html` in your browser or run with VS Code Live Server:
+   ```bash
+   npx serve .
+   ```
 
 ---
 
 ## 👨‍💻 Author
 
-**Prathmesh Dharashivkar**
-
-GitHub: https://github.com/Prathmesh1819
-
----
-
-## ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
-
-Thank you for visiting my portfolio!
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+**Prathmesh Dharashivkar**  
+Full Stack Web Developer & B.Sc CS Student  
+- **GitHub**: [https://github.com/Prathmesh1819](https://github.com/Prathmesh1819)  
+- **LinkedIn**: [https://www.linkedin.com/in/prathmesh-dharashivkar](https://www.linkedin.com/in/prathmesh-dharashivkar)  
+- **Email**: prathmeshdharashivkar18@gmail.com
