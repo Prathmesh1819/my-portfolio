@@ -21,7 +21,7 @@ Welcome to my developer portfolio website! Built with a Vercel/Linear/Stripe ins
 - 💼 **Agency & Freelance Experience**:
   - Founder & Lead Developer — Team 18 (`2025 – Present`)
   - Freelance Web Developer (`2025 – Present`)
-- 📄 **Resume Download & Contact**: Direct Google Drive resume link, social channels, and interactive contact form.
+- 📄 **Resume Download & Contact**: Direct PDF resume download link (`Prathmesh_Dharashivkar_Updated_Resume_No_Tagline.pdf`), social channels, and interactive contact form.
 - ⚡ **SEO & Performance**: Open Graph metadata, JSON-LD structured schema, and 100/100 Lighthouse target score.
 
 ---
