@@ -15,12 +15,12 @@ Welcome to my developer portfolio website! Built with a Vercel/Linear/Stripe ins
 - ⚡ **Categorized Skills**: Interactive filter tabs (Frontend, Backend, Database, Programming, Tools) with animated hover glow badges.
 - 💼 **Startup Projects Showcase**:
   1. **Shiftlens Media** (`⭐ Freelance Client Work`) — Live Demo & GitHub
-  2. **Team 18** (`⚡ Startup Agency`) — Live Demo & GitHub
-  3. **Smart Garbage Monitoring System** (`🌿 Civic Tech / IoT`) — Live Demo & GitHub
-  4. **Sarhad International Publisher** (`🎓 Academic Platform`) — Live Demo & GitHub
-  5. **ScanGoEase Parking System** (`🚗 Smart Mobility`) — Live Demo & GitHub
-  6. **Weather Forecasting App** (`🌤️ Real-Time API`) — Live Demo & GitHub
-- 📊 **Development Milestones & GitHub Matrix**: Animated statistics counters and 52-week interactive GitHub contribution heat map.
+  2. **Team 18** (`⚡ Web Development Agency`) — Live Demo & GitHub
+  3. **Smart Garbage Monitoring System** (`🌿 Civic Tech / Smart Waste Management`) — Live Demo & GitHub
+  4. **Sarhad International Publisher** (`🎓 Academic Project`) — Live Demo & GitHub
+- 💼 **Agency & Freelance Experience**:
+  - Founder & Lead Developer — Team 18 (`2025 – Present`)
+  - Freelance Web Developer (`2025 – Present`)
 - 📄 **Resume Download & Contact**: Direct Google Drive resume link, social channels, and interactive contact form.
 - ⚡ **SEO & Performance**: Open Graph metadata, JSON-LD structured schema, and 100/100 Lighthouse target score.
 
@@ -68,6 +68,7 @@ Portfolio/
 
 **Prathmesh Dharashivkar**  
 Full Stack Web Developer & B.Sc CS Student  
+Founder & Lead Developer — Team 18  
 - **GitHub**: [https://github.com/Prathmesh1819](https://github.com/Prathmesh1819)  
 - **LinkedIn**: [https://www.linkedin.com/in/prathmesh-dharashivkar](https://www.linkedin.com/in/prathmesh-dharashivkar)  
 - **Email**: prathmeshdharashivkar18@gmail.com
